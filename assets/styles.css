@@ -1,24 +1,24 @@
 /* MEDIA QUERIES */
             
-@media only screen and (max-width: 540px) {
+@media only screen and (min-width: 540px) {
 
   body.default { margin: 2vh auto; }
   
 }
             
-@media only screen and (max-width: 720px) {
+@media only screen and (min-width: 720px) {
 
   body.default { margin: 3vh auto; }
   
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (min-width: 960px) {
 
   body.default { margin: 7vh auto; }
   
 }
 
-@media only screen and (max-width: 1140px) {
+@media only screen and (min-width: 1140px) {
 
   body.default { margin: 10vh auto; }
   
