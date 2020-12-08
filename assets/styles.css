@@ -8,6 +8,18 @@
             
 @media only screen and (max-width: 720px) {
 
-  body.default { margin: 5vh auto; }
+  body.default { margin: 3vh auto; }
+  
+}
+
+@media only screen and (max-width: 960px) {
+
+  body.default { margin: 7vh auto; }
+  
+}
+
+@media only screen and (max-width: 1140px) {
+
+  body.default { margin: 10vh auto; }
   
 }
