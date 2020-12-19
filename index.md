@@ -17,19 +17,19 @@ En el año 2005, la desarrolladora rusa Ice Pick Lodge publicó 'Pathologic', un
 Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
 
 <a href="{{ site.url }}/screenshots/p1_1.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="img-fluid" alt="" />
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="thumbnail img-fluid" alt="" />
 </a>
 
 <a href="{{ site.url }}/screenshots/p1_2.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="img-fluid" alt="" />
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="thumbnail img-fluid" alt="" />
 </a>
 
 <a href="{{ site.url }}/screenshots/p1_3.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="img-fluid" alt="" />
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="thumbnail img-fluid" alt="" />
 </a>
 
 <a href="{{ site.url }}/screenshots/p1_4.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="img-fluid" alt="" />
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="thumbnail img-fluid" alt="" />
 </a>
 
 ### Pathologic 2
