@@ -20,24 +20,24 @@ Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy 
 	<div class="row">
 		<div class="col">
 			<a href="{{ site.url }}/screenshots/p1_1.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="thumbnail img-fluid" alt="" />
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="thumbnail" alt="" />
 			</a>
 		</div>
 		<div class="col">
 			<a href="{{ site.url }}/screenshots/p1_2.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="thumbnail img-fluid" alt="" />
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="thumbnail" alt="" />
 			</a>
 		</div>
 		<div class="col">
 			<a href="{{ site.url }}/screenshots/p1_3.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="thumbnail img-fluid" alt="" />
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="thumbnail" alt="" />
 			</a>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col">
 			<a href="{{ site.url }}/screenshots/p1_4.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="thumbnail img-fluid" alt="" />
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="thumbnail" alt="" />
 			</a>
 		</div>
 	</div>
