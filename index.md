@@ -20,6 +20,18 @@ Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy 
 	<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" alt="" />
 </a>
 
+<a href="{{ site.url }}/screenshots/p1_2.png" data-fancybox="gallery">
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" alt="" />
+</a>
+
+<a href="{{ site.url }}/screenshots/p1_3.png" data-fancybox="gallery">
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" alt="" />
+</a>
+
+<a href="{{ site.url }}/screenshots/p1_4.png" data-fancybox="gallery">
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" alt="" />
+</a>
+
 ### Pathologic 2
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil para con nosotros, está infectadao por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
@@ -35,7 +47,7 @@ El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofrec
 ### ¿Quiénes somos?
 
 * Álvaro Guerrero (@DUBlajes) - Coordinador de la traducción de Pathologic 2, asesor y traductor de Pathologic Classic HD.
-* Karen G. Marlow (@kmrlw) - Coordinadora de la traducción de Pathologic Classic HD, asesora y traductora de Pathologic 2.
+* Karen G. Marlow ([@kmrlw](https://twitter.com/kmrlw)) - Coordinadora de la traducción de Pathologic Classic HD, asesora y traductora de Pathologic 2.
 * Raquel Rueda (@RachelWheel03) - Correctora
 * TarekJor
 * Ancalagon
