@@ -16,21 +16,32 @@ En el año 2005, la desarrolladora rusa Ice Pick Lodge publicó 'Pathologic', un
 ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia. 
 Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
 
-<a href="{{ site.url }}/screenshots/p1_1.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="thumbnail img-fluid" alt="" />
-</a>
-
-<a href="{{ site.url }}/screenshots/p1_2.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="thumbnail img-fluid" alt="" />
-</a>
-
-<a href="{{ site.url }}/screenshots/p1_3.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="thumbnail img-fluid" alt="" />
-</a>
-
-<a href="{{ site.url }}/screenshots/p1_4.png" data-fancybox="gallery">
-	<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="thumbnail img-fluid" alt="" />
-</a>
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p1_1.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="thumbnail img-fluid" alt="" />
+			</a>
+		</div>
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p1_2.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="thumbnail img-fluid" alt="" />
+			</a>
+		</div>
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p1_3.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="thumbnail img-fluid" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p1_4.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="thumbnail img-fluid" alt="" />
+			</a>
+		</div>
+	</div>
+</div>
 
 ### Pathologic 2
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil para con nosotros, está infectadao por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
