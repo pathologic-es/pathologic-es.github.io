@@ -16,7 +16,9 @@ En el año 2005, la desarrolladora rusa Ice Pick Lodge publicó 'Pathologic', un
 ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia. 
 Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
 
-** Aquí se meterían las imágenes de la traducción ** 
+<a href="{{ site.url }}/screenshots/p1_1.png" data-fancybox="gallery">
+	<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" alt="" />
+</a>
 
 ### Pathologic 2
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil para con nosotros, está infectadao por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
@@ -32,12 +34,12 @@ El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofrec
 
 ### ¿Quiénes somos?
 
--Álvaro Guerrero (@DUBlajes) - Coordinador de la traducción de Pathologic 2, asesor y traductor de Pathologic Classic HD.
--Karen Gaseni (@kmrlw) - Coordinadora de la traducción de Pathologic Classic HD, asesora y traductora de Pathologic 2.
--Raquel Rueda (@RachelWheel03) - Correctora
--Tarek
--Ancalagon
--Rathian
+* Álvaro Guerrero (@DUBlajes) - Coordinador de la traducción de Pathologic 2, asesor y traductor de Pathologic Classic HD.
+* Karen G. Marlow (@kmrlw) - Coordinadora de la traducción de Pathologic Classic HD, asesora y traductora de Pathologic 2.
+* Raquel Rueda (@RachelWheel03) - Correctora
+* TarekJor
+* Ancalagon
+* Rathian
 
 
 
