@@ -1,29 +1,23 @@
-- name: Álvaro
-  lastname: Guerrero
-  username:
-  twitter: DUBlajes
-
-- name: Karen
-  lastname: Marlow
-  username:
-  twitter: krmlw
-
-- name: Raquel
-  lastname: Rueda
-  username:
-  twitter: RachelWheel03
-
-- name: Jorge
-  lastname: Álvarez
+- name: Jorge Álvarez
   username: TarekJor
   twitter:
 
+- name: Álvaro Guerrero
+  username:
+  twitter: DUBlajes
+
+- name: Karen Marlow
+  username:
+  twitter: krmlw
+
+- name: Raquel Rueda
+  username:
+  twitter: RachelWheel03
+
 - name: Rafael
-  lastname:
   username: Ancalagon
   twitter:
 
 - name:
-  lastname:
   username: Rathian
   twitter:

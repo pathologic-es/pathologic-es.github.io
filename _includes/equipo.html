@@ -8,10 +8,8 @@
 			{% elsif member.username %}
 				{{ member.username }}
 			{% endif %}
-				{% if member.name and member.lastname %}
-				({{ member.name }} {{ member.lastname }})
-				{% elseif member.lastname == "" %}
-				({{ member.name }}){% endif %}
+			{% if member.name %}
+				&nbsp;({{ member.name }})
 			{% endif %}
 		</div>
 	</div>
