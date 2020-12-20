@@ -5,6 +5,8 @@
 		<div class="content">
 			{% if member.twitter  %}
 				<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>
+			{% elsif member.instagram %}
+				<a href="https://www.instagram.com/{{ member.instagram }}">@{{ member.instagram }}</a>
 			{% elsif member.username %}
 				{{ member.username }}
 			{% endif %}
