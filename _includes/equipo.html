@@ -6,7 +6,12 @@
 			{% if member.twitter  %}
 				<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a> ({{ member.name }} {{ member.lastname }})
 			{% elsif member.username %}
-				{{ member.username }}{% if member.name and member.lastname %} ({{ member.name }} {{ member.lastname }}){% elseif member.lastname == "" %} ({{ member.name }}){% endif %}
+				{{ member.username }}
+			{% endif %}
+				{% if member.name and member.lastname %}
+				({{ member.name }} {{ member.lastname }})
+				{% elseif member.lastname == "" %}
+				({{ member.name }}){% endif %}
 			{% endif %}
 		</div>
 	</div>
