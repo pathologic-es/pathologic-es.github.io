@@ -20,7 +20,7 @@ Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy 
 	{% include image.html file="p1_1.png" %}
 	{% include image.html file="p1_2.png" %}
 	{% include image.html file="p1_3.png" %}
-	{% include image.html file="filep1_4.png" %}
+	{% include image.html file="p1_4.png" %}
 </div>
 
 ### Pathologic 2
