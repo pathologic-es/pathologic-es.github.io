@@ -4,9 +4,9 @@
 		<i class="users icon"></i>
 		<div class="content">
 			{% if member.twitter != "" %}
-			<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>
-			{% elsif member.twitter == "" %}
-			{{ member.username }}
+				<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>
+			{% elsif member.twitter == nil %}
+				{{ member.username }}
 			{% endif %}
 		</div>
 	</div>
