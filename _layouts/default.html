@@ -13,19 +13,16 @@
 	<body>
 		<div class="ui grid stackable centered container">
 			<div class="four wide column">
-				<h2 class="ui header">
-					{{ site.title }}
-					<div class="sub header"> {{ site.description }}</div>
-				</h2>
-				<div class="ui vertical text menu">
-					<div class="header item">Navegación</div>
-					<a class="item">Pathologic Classic HD</a>
-					<a class="item">Pathologic 2</a>
-					<a class="item">Equipo</a>
+				<div class="ui segment">
+					<h2 class="ui header">
+						{{ site.title }}
+						<div class="sub header"> {{ site.description }}</div>
+					</h2>
+					{% include navigation.html %}
 				</div>
 			</div>
-			<div class="nine wide column">
-				<div class="ui container">
+			<div class="ten wide column">
+				<div class="ui segment">
 					{{ content }}
 				</div>
 			</div>

@@ -37,12 +37,4 @@ El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofrec
 
 ### ¿Quiénes somos?
 
-* Álvaro Guerrero ([@DUBlajes](https://twitter.com/DUBlajes)) - Coordinador de la traducción de Pathologic 2, asesor y traductor de Pathologic Classic HD.
-* Karen G. Marlow ([@kmrlw](https://twitter.com/kmrlw)) - Coordinadora de la traducción de Pathologic Classic HD, asesora y traductora de Pathologic 2.
-* Raquel Rueda ([@RachelWheel03](https://twitter.com/RachelWheel03)) - Correctora
-* TarekJor
-* Ancalagon
-* Rathian
-
-
-
+{% include equipo.html %}
