@@ -4,7 +4,7 @@
 		<i class="user icon"></i>
 		<div class="content">
 			{% if member.twitter  %}
-				<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a> ({{ member.name }} {{ member.lastname }})
+				<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>
 			{% elsif member.username %}
 				{{ member.username }}
 			{% endif %}
