@@ -15,7 +15,7 @@ En el año 2005, la desarrolladora rusa Ice Pick Lodge publicó *Pathologic*, un
 ## Pathologic Classic HD
 ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
 
-*Las siguientes imágenes no necesariamente reflejan el resultado final  de la traducción.*
+*Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
 <div class="ui small images">
 	{% include image.html file="p1_1.png" %}
@@ -27,7 +27,7 @@ En el año 2005, la desarrolladora rusa Ice Pick Lodge publicó *Pathologic*, un
 ## Pathologic 2
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
-*Las siguientes imágenes no necesariamente reflejan el resultado final  de la traducción.*
+*Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
 <div class="ui small images">
 	{% include image.html file="p2_2.png" %}
