@@ -24,9 +24,55 @@ Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy 
 </div>
 
 ### Pathologic 2
-Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil para con nosotros, está infectadao por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
+Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
-** Aquí se meterían las imágenes de la traducción ** 
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_head.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_head.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_2.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_2.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_3.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_3.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_4.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_4.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_5.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_5.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_6.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_6.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<a href="{{ site.url }}/screenshots/p2_7.png" data-fancybox="gallery">
+				<img src="{{ site.url }}/screenshots/thumbnails/p2_7.png" class="thumbnail" alt="" />
+			</a>
+		</div>
+	</div>
+</div>
 
 ### The Marble Nest
 DLC para Pathologic 2 que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.
