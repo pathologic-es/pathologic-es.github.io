@@ -26,7 +26,14 @@ Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy 
 ## Pathologic 2
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
-** Aquí se meterían las imágenes de la traducción ** 
+<div class="ui small images">
+	{% include image.html file="p2_2.png" %}
+	{% include image.html file="p2_3.png" %}
+	{% include image.html file="p2_4.png" %}
+	{% include image.html file="p2_5.png" %}
+	{% include image.html file="p2_6.png" %}
+	{% include image.html file="p2_7.png" %}
+</div> 
 
 ## The Marble Nest
 DLC para Pathologic 2 que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.
