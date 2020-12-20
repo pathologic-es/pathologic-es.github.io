@@ -16,31 +16,11 @@ En el año 2005, la desarrolladora rusa Ice Pick Lodge publicó 'Pathologic', un
 ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia. 
 Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
 
-<div class="container">
-	<div class="row">
-		<div class="col">
-			<a href="{{ site.url }}/screenshots/p1_1.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_1.png" class="thumbnail" alt="" />
-			</a>
-		</div>
-		<div class="col">
-			<a href="{{ site.url }}/screenshots/p1_2.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_2.png" class="thumbnail" alt="" />
-			</a>
-		</div>
-		<div class="col">
-			<a href="{{ site.url }}/screenshots/p1_3.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_3.png" class="thumbnail" alt="" />
-			</a>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col">
-			<a href="{{ site.url }}/screenshots/p1_4.png" data-fancybox="gallery">
-				<img src="{{ site.url }}/screenshots/thumbnails/p1_4.png" class="thumbnail" alt="" />
-			</a>
-		</div>
-	</div>
+<div class="ui small images">
+	{% include image.html url="{{ site.url }}/screenshots/p1_1.png" %}
+	{% include image.html url="{{ site.url }}/screenshots/p1_2.png" %}
+	{% include image.html url="{{ site.url }}/screenshots/p1_3.png" %}
+	{% include image.html url="{{ site.url }}/screenshots/p1_4.png" %}
 </div>
 
 ### Pathologic 2
