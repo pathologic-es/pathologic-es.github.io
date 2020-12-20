@@ -39,8 +39,8 @@ DLC para *Pathologic 2* que ofrece una historia independiente. Juega un único d
 
 El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
 
-** Aquí se meterían las imágenes de la traducción ** 
+** Aquí irían las imágenes de la traducción ** 
 
-### ¿Quiénes somos?
+## ¿Quiénes somos?
 
 {% include equipo.html %}
