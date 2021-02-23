@@ -508,7 +508,7 @@ Sand Plague - земляная чума - **Plaga de Arena**
 
 Silly House - Глупый Дом - **Casa Absurda**
 
-Shmowder - Порошочек - **Polvillos** 
+Shmowder - Порошочек - **Mezcolanza** 
 
 @TarekJor (es una Clave del Juego, un ítem sumamente importante), luego se podría usar Polvillos en algunas partes que hablan de powders, y Mezcolanza (para el Item del Inventario, Schmowders)
 
