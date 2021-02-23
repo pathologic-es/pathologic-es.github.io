@@ -19,7 +19,7 @@ layout: default
 - [Refranero, Frases Hechas, Idiomas,Dichos](#refranero)
 - [Comentarios de Traductores](#feedback)
 
-## <a id="principales">Personajes Principales</a>
+### <a id="principales"></a>Personajes Principales
 Aspity - Оспина - **Pústula**
 
 - Usp'tae - Успине - Put'sulae
@@ -107,8 +107,9 @@ Vlad the Heavy - Тяжелый/Толстый Влад - **Vlad el Gravoso**
 
 Young Vlad - Младший Влад - **Vlad el Joven**
 
----
-## <a id="secundarios">Personajes Secundarios</a>
+
+### <a id="secundarios"></a>Personajes Secundarios
+
 Barley the Thug - Брагу-злодея - **Barrica el Matón**
 
 *@Knell: A ser posible, preferiría no dejar ningún nombre sin traducir. “Braga” es un tipo de cerveza de Europa del este. “Barley” es centeno en inglés. En resumen: a este personaje le va el alcohol.
@@ -158,12 +159,11 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 - Warm One - Тёплая - **Cálida** (ella)
 - Water Guard - Охранник воды - **Guardián del Agua**
 
----
-## <a id="mapa">Distritos y Zonas (Mapa)</a>
+### <a id="mapa"></a>Distritos y Zonas (Mapa)
 
 - Abattoir - Бойни - **Matadero**
 - Bad Grief’s Nest - Логово Грифа - **El Nido de Grifo**
-- Bone Stake Lot - Пустырь Костного Столба - Solar de la Estaca de Huesos o **Estacario de Hueso**
+- Bone Stake Lot - Пустырь Костного Столба - **Solar de la Estaca de Huesos**
 - Gates of Labour - Врата Труда - **Pórtico de la Labor**
 - Gates of Sorrow - Врата Скорби - **Pórtico de la Tristeza** o Pórtico de la Pena
 - Gullet - Жилка - **Arteria** (río)
@@ -174,9 +174,9 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 - Ragi Barrow - Курган Раги - **Túmulo de Ragi**
 - Station: **Estación** (es la estación de ferrocarril).
 - The Atrium - Створки - **El Atrio**
-- The Backbone - Хребтовка - **El Lomo** o La columna vertebral.
+- The Backbone - Хребтовка - **El Lomo**
 - The Bridge Square - Площадь мост - **Plaza del Puente**
-- The Bulljaw - Бычий Зев - **La Boca del Toro** o La Quijada de toro.
+- The Bulljaw - Бычий Зев - **La Boca del Toro** o La Quijada del Toro
 - The Cape - Мыс - **El Cabo**
 - The Cemetery - Кладбище - **El Cementerio**
 - The Chine - Ребро - **La Costilla** o el Espinazo
@@ -189,7 +189,7 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 - The Hindquarters - Жильники - **Los Cuartos Traseros**
 - The Knots - Узлы - **Los Nódulos**
 - The Lump - Сгусток - **El Coágulo**
-- The Marrow - Сердечник - **La Médula** o el Tuétano
+- The Marrow - Сердечник - **La Médula** o El Tuétano
 - The Maw/The Mouth - Жерло - **Las Fauces**
 - The Nutshell - Скорлупа - **El Cascarón**
 - The Polyhedron - Многогранник - **El Poliedro**
@@ -199,7 +199,7 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 - The Soul-and-a-Half Fortress - Замок Двоедушников - **La Fortaleza de las Almas Duales**
 - The Spleen - Почка - **El Riñón** o el Bazo
 - The Station - Станция - **La Estación** (es la estación de ferrocarril)
-- The Stillwater - Омут - **La Vorágine** o (Aguas Calmas)
+- The Stillwater - Омут - **La Vorágine**
 
 Tanto en ruso como en inglés, el nombre de la casa de Eva Yan hace referencia al dicho "Still waters run deep / В тихом омуте черти водятся". En español sería algo así como 
 "Las aguas tranquilas son profundas". Básicamente quiere decir que las apariencias engañan.
@@ -222,8 +222,8 @@ Por eso pensé en La Vorágine o El Torbellino, palabras asociadas frecuentement
 - Upper Town - верх - **parte alta (del pueblo)** o Alto del Pueblo, Pueblo Alto
 - Warehouses: **Almacenes**
 
----
-## <a id="objetos">Objetos</a>
+
+### <a id="objetos"></a>Objetos
 
 *(No le pongáis los puntos al final si la original no lo lleva)
  
@@ -277,8 +277,8 @@ En ocasiones e habla de 'powders', polvillos, cuando se habla de Shmowders (sh, 
 - Water Bottle:  **Botella de Agua**
 - White Whip - Белая плеть - **Látigo Blanco**
 
----
-## <a id="general">General</a>
+
+### <a id="general"></a>General
 
 - Aide - Оруженосец - **Ayudante**/Auxiliar depende el contexto)
 - Audience - Зритель - Espectadores o Público / **Audiencia**
@@ -343,8 +343,8 @@ Insisto, desde mi punto de vista, es muy difícil de traducir; y, por otra parte
 - Water bearers - Водонос/Водоносы - **Portadores/Porteadores de Agua** o Aguadores
 - Worm - Червь - **Gusano**
 
----
-## <a id="comentarios-glosario-knell">Comentarios sobre Términos/Glosario (por Knell)</a>
+
+### <a id="comentarios-glosario-knell">Comentarios sobre Términos/Glosario (por @kmrlw)</a>
 
 Lista: Stillwater, The Changeling, Kin, Bad Grief, Aspity, Grace, Murky, Sticky
 
@@ -442,8 +442,8 @@ Lista: Stillwater, The Changeling, Kin, Bad Grief, Aspity, Grace, Murky, Sticky
 
 	knell 02/12/2020
 
----
-## <a id="refranero">Refranes, Provervios, Frases Hechas (Idiomas) y Dichos Populares</a>
+
+### <a id="refranero"></a>Refranes, Provervios, Frases Hechas (Idiomas) y Dichos Populares
 
 Bases de datos:
 

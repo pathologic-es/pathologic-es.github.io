@@ -551,7 +551,7 @@ Aspity's Hospice - Дом Оспины - **Casa de Pústula**
 
 Atrium - Створки - **Atrio**
 
-Backbone - Хребтовка - **Lomo** o Columna
+Backbone - Хребтовка - **Lomo**
 
 Bad Grief's Lair - Логово Грифа - **La Guarida de Grifo**
 
