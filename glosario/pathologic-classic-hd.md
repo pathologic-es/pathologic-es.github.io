@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Traducción a Español de Pathologic I (Classic HD) - Glosario
+# Traducción al Español de Pathologic I (Classic HD) - Glosario
 
 - Fecha: Actualizado a 2021-02-07 (en proceso de unificado y en continua revisión)
 - Formato: Markdown
 - En proceso: unificar Glosario de Pathologic I y II cuando proceda, y mantener una distinción cuando haya diferencias (no son exactamente iguales), mejorar formato, orden alfabético para mejor navegación/actualización en todas las secciones.
 - Navegación: ctrl+f para buscar.
-- Autores: @knell, fundamentalmente, con aportaciones de @tarekjor (edición), @dublajes, @ancalagon
+- Autores: @knmrlw, fundamentalmente, con aportaciones de @TarekJor (edición), @DUBlajes, @Ancalagon
 
 ## Índice
 
@@ -28,7 +28,7 @@ La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió d
 3.  [Comentario en Reddit](https://www.reddit.com/r/IAmA/comments/2i6yts/we_are_a_russian_game_development_studio_named/)
 4.  [Kickstarter de Pathologic 2](https://www.kickstarter.com/projects/1535515364/pathologic)
 5.  [Pathologic 2 en Steam](https://store.steampowered.com/app/505230/Pathologic_2/), [Pathologic 2 en GOG](https://www.gog.com/game/pathologic_2)
----
+
 ##  <a id="principales">Personajes principales</a> 
 
 Bachelor - Бакалавр - **Licenciado**

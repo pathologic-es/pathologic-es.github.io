@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Traducción a Español de Pathologic II - Glosario
+# Traducción al Español de Pathologic II - Glosario
 
 - Fecha: Actualizado a 2020-02 (en proceso de unificación y en continua revisión)
 - Formato: Markdown
 - En proceso: unificar Glosario de Pathologic I y II cuando proceda, y mantener una distinción cuando haya diferencias (no son exactamente iguales), mejorar formato, orden alfabético para mejor navegación
 - Navegación: ctrl+f para buscar.
-- Autores: @knell, fundamentalmente, con aportaciones de @tarekjor (edición), @dublajes, @ancalagon
+- Autores: @knmrlw, fundamentalmente, con aportaciones de @TarekJor (edición), @DUBlajes, @Ancalagon
 
 ## Índice (Sumario)
 - [Personajes Principales](#principales)
