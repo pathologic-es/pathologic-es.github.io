@@ -19,7 +19,7 @@ layout: default
 - [Mapa](#mapa)
 - [Comentarios extra sobre algunos términos](#comentarios-extra-terminos)
 
-## <a id="enlaces">Enlaces</a> 
+### <a id="enlaces"></a>Enlaces
 
 La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió dos artículos (y algún comentario) detallando los aspectos, significados y dobles significados más significativos del texto y su proceso de traducción. Recomiendo su lectura, pues da un idea de la gran complejidad del texto.
 
@@ -28,7 +28,7 @@ La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió d
 3.  [Comentario en Reddit](https://www.reddit.com/r/IAmA/comments/2i6yts/we_are_a_russian_game_development_studio_named/)
 4.  [Kickstarter de Pathologic 2](https://www.kickstarter.com/projects/1535515364/pathologic)
 
-##  <a id="principales">Personajes principales</a> 
+### <a id="principales"></a>Personajes principales
 
 Bachelor - Бакалавр - **Licenciado**
 
@@ -272,7 +272,7 @@ What I’m saying is, I think the medical angle is not vital for his title.
 
 - En definitiva, el juego es deliberadamente anacrónico, y sería un error llamarle Doctor Dankovsky, pero no lo es asumir que no tiene estudios de Medicina o de ciencias médicas. - Karen “ @knell ”
 
-## <a id="secundarios">Personajes secundarios</a> 
+### <a id="secundarios"></a>Personajes secundarios
 
 Ayan - Айян - **Ayan**
 
@@ -380,8 +380,8 @@ Young Lady - Девушка - **Muchacha**
 
 Young Man - Юноша - **Muchacho**
 
----
-## <a id="misc">Conceptos abstractos y miscelánea</a> 
+
+### <a id="misc"></a>Conceptos abstractos y miscelánea
 
 Utopians - Утописты - **Utópicos**
 
@@ -459,7 +459,7 @@ Karstov Fords - Карстовы Броды - **Vados Karstov**
 
 The Kin - Уклад - **Régimen**
 
-@knell
+@kmrlw
 
 - **Уклад** significa “modo”, “costumbre”, “camino”, “régimen”. En definitiva, es el orden natural de las cosas. Difícil de traducir. También podría traducirse como “La Orden”, pero pierde un poco su significado original. En definitiva, **expresa rigidez en la estructura social y religiosa**  de “The Kin”.
 
@@ -540,8 +540,8 @@ Uheghe - Ухеге - **(No se traduce)**
 
 White Whip - Белая плеть - **Látigo blanco**
 
----
-## <a id="mapa"></a> Mapa
+
+### <a id="mapa"></a>Mapa
 
 Abattoir - Бойни - **Matadero**
 
@@ -693,8 +693,8 @@ The windows of this house are bricked in - Окна в этом доме зал�
 
 The butcher is here. - Мясник находится на этом месте. - **El carnicero está aquí.**
 
----
-## <a id="comentarios-extra-terminos"></a> Comentarios sobre algunos términos 
+
+### <a id="comentarios-extra-terminos"></a>Comentarios sobre algunos términos
 
 Herb Bride 
 
