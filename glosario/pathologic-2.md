@@ -52,8 +52,6 @@ Clara the Changeling - Клара-самозванка - **Clara la Impostora**
 
 - Todo diccionario traduce la palabra Самозванка como "Impostor/a". Changeling es una adaptación inteligente que queda bien en inglés. No obstante, para la traducción al español me inclino a seguir el sentido original, es decir: el de una persona que se auto-denomina como algo que no es.
 
-- Cabe señalar, además, que SPOILERS de hecho existen dos Claras y una de ellas es una impostora.
-
 Commander - Полководец - **Comandante**
 
 Cub - Медведь (Oso) - **Osezno** o Cachorro
