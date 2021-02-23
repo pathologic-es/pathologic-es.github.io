@@ -21,7 +21,7 @@ layout: default
 
 ### <a id="enlaces"></a>Enlaces
 
-La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió dos artículos (y algún comentario) detallando los aspectos, significados y dobles significados más significativos del texto y su proceso de traducción. Recomiendo su lectura, pues da un idea de la gran complejidad del texto.
+La traductora del ruso al inglés (Alexandra “Alphyna” Golubeva) escribió dos artículos (y algún comentario) detallando los aspectos, significados y dobles significados más significativos del texto y su proceso de traducción. Recomiendo su lectura, pues da un idea de la gran complejidad del texto.
 
 1.  [Artículo 1](https://www.kickstarter.com/projects/1535515364/pathologic/posts/994808)
 2.  [Artículo 2](https://www.kickstarter.com/projects/1535515364/pathologic/posts/1320682)
