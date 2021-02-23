@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+{{ content }}
+
 # Traducción a Español de Pathologic II - Glosario
 
 - Fecha: Actualizado a 2020-02 (en proceso de unificación y en continua revisión)
