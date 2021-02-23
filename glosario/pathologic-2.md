@@ -520,21 +520,6 @@ Significado: prisas
 EN An oak isn't felled in one stroke.
 ES Un solo golpe no derriba un roble.
 
----
-## <a id="feedback">Comentarios / Feedback
-
-Espacio para dejar comentarios y preguntas que no están relacionados con ningún término o expresión listados en el glosario.
-
-- Por lo que vi en la Wiki, es un personaje que se llama Aide - @DUBlajes
-
-- Creo que cuando en el texto aparece Town deberíamos poner también Pueblo, con mayúscula. Y cuando hablan en general de "the town" ponerlo en minúscula - @DUBlajes
-
-- https://pathologic.gamepedia.com/Pathologic_2_Minor_Characters)
-
-- Orderlies => ordenanzas, celadores, camilleros, asistentes, ayudantes (un término curioso), asistentes médicos, no-enfemeros, más camilleros, celadores, y ayudantes auxilares, que 'sanitarios' - @TarekJor
-
-- Algunos términos habrá que revisarlos con contexto y al final al unificar las traducciones (ejemplo The Kin) - @TarekJor
-- Algunos términos están claros y son definitivos, otros pueden/deben ser revisados al final (orderlies, motes, nombres de personajes, el contexto podría decantar una alternativa que quedara mejor o unificar con Pathologic I - @TarekJor
 
 ---
 **Autores: @kmrlw fundamentalmente, @DUBlajes, @TarekJor (Edición en GitHub)  @ 2021
