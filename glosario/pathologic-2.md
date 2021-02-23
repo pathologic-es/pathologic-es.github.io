@@ -330,7 +330,7 @@ Insisto, desde mi punto de vista, es muy difícil de traducir; y, por otra parte
 - Worm - Червь - **Gusano**
 
 
-### <a id="comentarios-glosario-knell">Comentarios sobre Términos/Glosario (por @kmrlw)</a>
+### <a id="comentarios-glosario-knell"></a>Comentarios sobre Términos/Glosario (por @kmrlw)
 
 Lista: Stillwater, The Changeling, Kin, Bad Grief, Aspity, Grace, Murky, Sticky
 
