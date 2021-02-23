@@ -447,8 +447,8 @@ Lista: Stillwater, The Changeling, Kin, Bad Grief, Aspity, Grace, Murky, Sticky
 
 Bases de datos:
 
-- [Refranero Cervantes(https://cvc.cervantes.es/lengua/refranero/listado.aspx)
-- [Refranes / Dichos Academic.Ru(https://dic.academic.ru/contents.nsf/sp_sp_dichos_refranes)
+- [Refranero Cervantes](https://cvc.cervantes.es/lengua/refranero/listado.aspx)
+- [Refranes / Dichos Academic.Ru](https://dic.academic.ru/contents.nsf/sp_sp_dichos_refranes)
 - Intentar buscar siempre un refrán apropiado, y lo más utilizado/adecuado posible
 
 RU Брехать не кайлом махать, разок брехнул да и отдохнул. (rima)
