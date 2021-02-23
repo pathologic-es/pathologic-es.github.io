@@ -27,7 +27,6 @@ La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió d
 2.  [Artículo 2](https://www.kickstarter.com/projects/1535515364/pathologic/posts/1320682)
 3.  [Comentario en Reddit](https://www.reddit.com/r/IAmA/comments/2i6yts/we_are_a_russian_game_development_studio_named/)
 4.  [Kickstarter de Pathologic 2](https://www.kickstarter.com/projects/1535515364/pathologic)
-5.  [Pathologic 2 en Steam](https://store.steampowered.com/app/505230/Pathologic_2/), [Pathologic 2 en GOG](https://www.gog.com/game/pathologic_2)
 
 ##  <a id="principales">Personajes principales</a> 
 
