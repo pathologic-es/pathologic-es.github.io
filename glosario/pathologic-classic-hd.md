@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{{ content }}
-
 # Traducción a Español de Pathologic I (Classic HD) - Glosario
 
 - Fecha: Actualizado a 2021-02-07 (en proceso de unificado y en continua revisión)
