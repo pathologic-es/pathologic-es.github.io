@@ -308,7 +308,7 @@ Carouser - Гуляка - **Parrandero**
 
 Crowfoot - Лютика - **Ranúnculo**
 
-Doghead - Песиголовец - **Caraperro**
+Doghead - Песиголовец - **Cabezaperro**
 
 Dovecot - Голубятня - **Palomar**
 
