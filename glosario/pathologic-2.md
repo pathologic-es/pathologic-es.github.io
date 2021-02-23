@@ -119,7 +119,7 @@ Barley the Thug - Брагу-злодея - **Barrica el Matón**
 - Crow - Ворон - **Cuervo**
 - Doghead - Псиглавец - **Cabezaperro**
 - Dove - Горлица - **Tórtola**
-- Fellow Traveler - Попутчик - **Compañero de ruta** o Compañero Viajero
+- Fellow Traveler - Попутчик - **Compañero de ruta** o Compañero de viaje
 - Flinch - Снегирь - **Pinzón**
 - Fly - Мошка - **Mosquito**
 - Goose - Гусь - **Ganso
