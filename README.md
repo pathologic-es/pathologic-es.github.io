@@ -54,7 +54,6 @@
 - [@RachelWheel93](https://twitter.com/RachelWheel93) (Raquel Rueda) - Corrección y revisión
 - [@saphina_darkness](https://www.instagram.com/saphina_darkness/) (Saphina Graña) - Traducción de Pathologic I
 - [@TarekJor_GZ](https://twitter.com/TarekJor_GZ) (Jorge Alfonso Álvarez) - Traducción de Pathologic I y II y Edición en Github
-- @Rathianrosa - Traducción de Pathologic II
 
 Entre otros colaboradores, @omewwwwes, @Va
 
