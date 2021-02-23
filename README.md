@@ -48,7 +48,7 @@
 
 - [@DUBlajes](https://twitter.com/DUBlajes) (Álvaro Guerrero)- Traducción de Pathologic I y II, Traducción del Juego de Mesa de Pathologic, Coordinador de Pathologic II
 
-- [@krmlw](https://twitter.com/krmlw)  (Karen Marlow) - Traducción de Pathologic I y II, Glosario, nuestra Referencia en Ruso y Coordinadora de la Traducción de Pathologic I
+- [@kmrlw](https://twitter.com/kmrlw)  (Karen Marlow) - Traducción de Pathologic I y II, Glosario, nuestra Referencia en Ruso y Coordinadora de la Traducción de Pathologic I
 
 - Ancalagon (Rafael) - Traducción de Pathologic II
 - [@RachelWheel93](https://twitter.com/RachelWheel93) (Raquel Rueda) - Corrección y revisión
