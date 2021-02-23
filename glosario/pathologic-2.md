@@ -8,7 +8,7 @@ layout: default
 - Formato: Markdown
 - En proceso: unificar Glosario de Pathologic I y II cuando proceda, y mantener una distinción cuando haya diferencias (no son exactamente iguales), mejorar formato, orden alfabético para mejor navegación
 - Navegación: ctrl+f para buscar.
-- Autores: @knmrlw, fundamentalmente, con aportaciones de @TarekJor (edición), @DUBlajes, @Ancalagon
+- Autores: @kmrlw, fundamentalmente, con aportaciones de @TarekJor (edición), @DUBlajes, @Ancalagon
 
 ## Índice (Sumario)
 - [Personajes Principales](#principales)
