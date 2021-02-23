@@ -661,8 +661,6 @@ The Stillwater, Eva Yan's house - "Омут", дом Евы Ян - **La Vorágin
 
 - Por eso pensé en **La Vorágine** o **El Torbellino**, palabras asociadas frecuentemente con las emociones y cambios internos.
 
-- *Alternativa: Aguas Calmas
-
 Stone Yard - Каменный двор - **Jardín de Piedra**
 
 Tanners - Дубильщики - **Curtidores**
