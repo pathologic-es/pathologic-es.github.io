@@ -45,6 +45,6 @@ El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofrec
 
 ** Aquí irían las imágenes de la traducción ** 
 
-## [¿Quiénes somos?](#equipo)
+<h2 id="equipo">¿Quiénes somos?</h2>
 
 {% include equipo.html %}
