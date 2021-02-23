@@ -457,7 +457,7 @@ Isolation ward - Изолятор - **Sala / Pabellón de aislamiento**
 
 Karstov Fords - Карстовы Броды - **Vados Karstov**
 
-The Kin - Уклад - **Régimen**
+The Kin - Уклад - **El Dogma**
 
 @kmrlw
 
@@ -502,9 +502,9 @@ Rusty twyre - Ржавая твирь - **Twyr ocre**
 
 Sand Dirt - песочная грязь - **Mugre de arena**
 
-Sand Pest - песчаная лихорадка - **Peste de arena o Fiebre de arena**
+Sand Pest - песчаная лихорадка - **Peste de arena** o **Fiebre de arena**
 
-Sand Plague - земляная чума - **Plaga de Arena**
+Sand Plague - земляная чума - **Plaga de arena**
 
 Silly House - Глупый Дом - **Casa Absurda**
 
