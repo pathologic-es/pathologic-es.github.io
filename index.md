@@ -30,12 +30,12 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
       </div>
     </div>
 
-    ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
+    <p>¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.</p>
   </div>
   <div class="column">
-    *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
+    <p>*Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*</p>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
