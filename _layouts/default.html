@@ -11,14 +11,14 @@
 	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 	<body>
 		<div class="container">
-			<h1>{{ site.title }}</h1>
-			<p>{{ site.description }}</p>
 			<div class="row">
+				<div class="col-8">
+					<h1>{{ site.title }}</h1>
+					<p>{{ site.description }}</p>
+					{{ content }}
+				</div>
 				<div class="col">
 					{% include navigation.html %}
-				</div>
-				<div class="col-8">
-					{{ content }}
 				</div>
 			</div>
 		</div>
