@@ -13,25 +13,31 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
 ¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
 
 ## Pathologic Classic HD
+<div class="ui stackable two column grid">
+  <div class="column">
+    <div class="ui list">
+      <div class="item">
+        <div class="header">Coordinación</div>
+        Karen Marlow
+      </div>
+      <div class="item">
+        <div class="header">Traducción</div>
+        Jorge Álvarez, Álvaro Guerrero, Saphina Graña, Karen Marlow
+      </div>
+      <div class="item">
+        <div class="header">Corrección</div>
+        Raquel Rueda
+      </div>
+    </div>
 
-<div class="ui list">
-  <div class="item">
-    <div class="header">Coordinación</div>
-    Karen Marlow
+    ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
   </div>
-  <div class="item">
-    <div class="header">Traducción</div>
-    Jorge Álvarez, Álvaro Guerrero, Saphina Graña, Karen Marlow
-  </div>
-  <div class="item">
-    <div class="header">Corrección</div>
-    Raquel Rueda
+  <div class="column">
+    *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
-
-¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
-
-*Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
 ## Pathologic 2
 
