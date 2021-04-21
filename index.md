@@ -3,64 +3,69 @@ layout: default
 ---
 
 {{ content }}
+<div class="ui container">
+  En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un juego en el que encarnábamos a tres personajes distintos que tenían que sobrevivir a una extraña plaga que azotaba un pueblo perdido de la estepa. Este juego se convirtió rápidamente en un juego de culto, del que todo el mundo alabó su narrativa. 10 años después, en 2015, la desarrolladora publicaría *Pathologic Classic HD*, un remake del juego original en el que mejoró texturas, doblaje y traducción al inglés. Finalmente, en 2019, se publicó *Pathologic 2*, un reboot y, a la vez, secuela del primer juego; y el DLC *The Marble Nest*.
 
-En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un juego en el que encarnábamos a tres personajes distintos que tenían que sobrevivir a una extraña plaga que azotaba un pueblo perdido de la estepa. Este juego se convirtió rápidamente en un juego de culto, del que todo el mundo alabó su narrativa. 10 años después, en 2015, la desarrolladora publicaría *Pathologic Classic HD*, un remake del juego original en el que mejoró texturas, doblaje y traducción al inglés. Finalmente, en 2019, se publicó *Pathologic 2*, un reboot y, a la vez, secuela del primer juego; y el DLC *The Marble Nest*.
+  ¿Qué tienen todos estos juegos en común? Que ninguno fue traducido al castellano.
 
-¿Qué tienen todos estos juegos en común? Que ninguno fue traducido al castellano.
+  **¡Hasta ahora!**
 
-**¡Hasta ahora!**
+  ¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
+</div>
 
-¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
-
-<div class="ui stackable two column grid">
-  <div class="column">
-    <h2 class="ui header">Pathologic Classic HD</h2>
-    <div class="ui list">
-      <div class="item">
-        <div class="header">Coordinación</div>
-        Karen Marlow
+<div class="ui container">
+  <div class="ui stackable two column grid">
+    <div class="column">
+      <h2 class="ui header">Pathologic Classic HD</h2>
+      <div class="ui list">
+        <div class="item">
+          <div class="header">Coordinación</div>
+          Karen Marlow
+        </div>
+        <div class="item">
+          <div class="header">Traducción</div>
+          Jorge Álvarez, Álvaro Guerrero, Saphina Graña, Karen Marlow
+        </div>
+        <div class="item">
+          <div class="header">Corrección</div>
+          Raquel Rueda
+        </div>
       </div>
-      <div class="item">
-        <div class="header">Traducción</div>
-        Jorge Álvarez, Álvaro Guerrero, Saphina Graña, Karen Marlow
-      </div>
-      <div class="item">
-        <div class="header">Corrección</div>
-        Raquel Rueda
-      </div>
+      <p>¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.</p>
     </div>
-    <p>¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.</p>
-  </div>
-  <div class="column">
-    <h3 class="ui header">Trailer</h3>
-    <p><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></p>
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="column">
+      <h3 class="ui header">Trailer</h3>
+      <p><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></p>
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
   </div>
 </div>
 
-<div class="ui stackable two column grid">
-  <div class="column">
-    <h2 class="ui header">Pathologic 2</h2>
-    <div class="ui list">
-      <div class="item">
-        <div class="header">Coordinación</div>
-        Álvaro Guerrero
+<div class="ui container">
+  <div class="ui stackable two column grid">
+    <div class="column">
+      <h2 class="ui header">Pathologic 2</h2>
+      <div class="ui list">
+        <div class="item">
+          <div class="header">Coordinación</div>
+          Álvaro Guerrero
+        </div>
+        <div class="item">
+          <div class="header">Traducción</div>
+          Jorge Álvarez, Álvaro Guerrero, Karen Marlow, Ancalagon (Rafael), omewwwwes
+        </div>
+        <div class="item">
+          <div class="header">Corrección</div>
+          Raquel Rueda
+        </div>
       </div>
-      <div class="item">
-        <div class="header">Traducción</div>
-        Jorge Álvarez, Álvaro Guerrero, Karen Marlow, Ancalagon (Rafael), omewwwwes
-      </div>
-      <div class="item">
-        <div class="header">Corrección</div>
-        Raquel Rueda
-      </div>
+      <p>Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.</p>
     </div>
-    <p>Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.</p>
-  </div>
-  <div class="column">
-    <h3 class="ui header">Trailer</h3>
-    <p><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></p>
-    <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=Kft5qWAGJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="column">
+      <h3 class="ui header">Trailer</h3>
+      <p><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></p>
+      <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=Kft5qWAGJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
   </div>
 </div>
 
