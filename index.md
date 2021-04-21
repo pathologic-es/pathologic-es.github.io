@@ -12,9 +12,9 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
 
 ¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
 
-## Pathologic Classic HD
 <div class="ui stackable two column grid">
   <div class="column">
+    <h2 class="ui header">Pathologic Classic HD</h2>
     <div class="ui list">
       <div class="item">
         <div class="header">Coordinación</div>
@@ -33,7 +33,8 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
     <p>¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.</p>
   </div>
   <div class="column">
-    <p>*Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*</p>
+    <h2 class="ui header">Trailer</h2>
+    <p><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></p>
 
     <iframe src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
