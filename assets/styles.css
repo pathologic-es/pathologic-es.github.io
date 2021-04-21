@@ -1,1 +1,1 @@
-body > .container { max-width: 720px; }
+#sidebar { position: sticky; top: 6rem; }
