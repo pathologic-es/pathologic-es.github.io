@@ -13,16 +13,23 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
 ¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
 
 ## Pathologic Classic HD
+Coordinación: Karen Marlow
+Traducción: Jorge Álvarez, Álvaro Guerrero, Saphina Graña, Karen Marlow
+
 ¡Experimenta el magnífico juego de culto por primera vez en castellano! Por fin el idioma no supondrá una barrera para todo hispanohablante que quiera disfrutar de esta extraña e intrigante historia.  Podrás jugar en el papel del Licenciado Daniil Dankovsky, del Arúspice Artemy Burakh o de Clara, la Impostora, y tratar de sobrevivir 12 días a la Plaga de Arena desde su punto de vista.
 
 *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
 ## Pathologic 2
+Coordinación: Álvaro Guerrero
+Traducción: Jorge Álvarez, Álvaro Guerrero, Karen Marlow, Ancalagon (Rafael), omewwwwes
+Corrección: Raquel Rueda
+
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
 *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
-## The Marble Nest
+### The Marble Nest
 DLC para *Pathologic 2* que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.
 
 El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
