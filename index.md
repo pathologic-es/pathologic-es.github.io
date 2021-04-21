@@ -12,7 +12,7 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
 
 ¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
 
-<div class="ui stackable two column grid">
+<div class="ui divided stackable two column grid">
   <div class="column">
     <h2 class="ui header">Pathologic Classic HD</h2>
     <div class="ui list">
