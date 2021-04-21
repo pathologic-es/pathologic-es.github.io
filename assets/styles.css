@@ -1,2 +1,1 @@
-body { background: #000 url("https://pathologic-es.github.io/assets/bg.png") center / cover; }
-.ui.grid.container { padding: 3rem 0; }
+body > .container { max-width: 720px; }
