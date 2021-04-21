@@ -36,7 +36,7 @@ En el año 2005, la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un
     <h2 class="ui header">Trailer</h2>
     <p><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></p>
 
-    <iframe src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="embed-container"><iframe src="https://www.youtube.com/embed/y1m-WUGP4Mg" frameborder="0" allowfullscreen></iframe></div>
   </div>
 </div>
 
