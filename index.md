@@ -20,13 +20,13 @@ En el año 2005 la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un 
 * __Traducción:__ [Jorge Álvarez](https://twitter.com/TarekJor), [Álvaro Guerrero](https://twitter.com/DUBlajes), [Saphina Graña](https://www.instagram.com/saphina_darkness), [Karen Marlow](https://twitter.com/kmrlw)
 * __Corrección:__ [Raquel Rueda](https://twitter.com/RachelWheel93)
 
-###Trailer
+<h3>Trailer</h3>
 
 *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/y1m-WUGP4Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Pathologic 2
+<h2>Pathologic 2</h2>
 
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
@@ -34,13 +34,13 @@ Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobreviv
 * __Traducción:__ [Jorge Álvarez](https://twitter.com/TarekJor), [Álvaro Guerrero](https://twitter.com/DUBlajes), [Karen Marlow](https://twitter.com/kmrlw), Ancalagon (Rafael), omewwwwes
 * __Corrección:__ [Raquel Rueda](https://twitter.com/RachelWheel93)
 
-###Trailer
+<h3>Trailer</h3>
 
 *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=Kft5qWAGJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  * ### The Marble Nest
+  * <h3>The Marble Nest</h3>
   * DLC para *Pathologic 2* que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.
 
   * El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
