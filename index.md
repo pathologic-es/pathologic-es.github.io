@@ -10,7 +10,7 @@ En el año 2005 la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un 
 
 **¡Hasta ahora!**
 
-¡Si quieres estar al tanto de todas las novedades, sigue en twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
+¡Si quieres estar al tanto de todas las novedades, sigue en Twitter el hashtag [#PathologicEspañol](https://twitter.com/hashtag/PathologicEspañol)!
 
 <h2>Pathologic Classic HD</h2>
 
@@ -45,6 +45,6 @@ Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobreviv
 
   * El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
 
-  * ###Trailer
+  * <h4>Trailer</h4>
 
   * *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
