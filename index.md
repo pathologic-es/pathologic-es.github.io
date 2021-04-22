@@ -4,6 +4,9 @@ layout: default
 
 {{ content }}
 
+<h1>{{ site.title }}</h1>
+<h2>{{ site.description }}</h2>
+
 En el año 2005 la desarrolladora rusa Ice-Pick Lodge publicó *Pathologic*, un juego en el que encarnábamos a tres personajes distintos que tenían que sobrevivir a una extraña plaga que azotaba un pueblo perdido de la estepa. Este juego se convirtió rápidamente en un juego de culto, del que todo el mundo alabó su narrativa. 10 años después, en 2015, la desarrolladora publicaría *Pathologic Classic HD*, un remake del juego original en el que mejoró texturas, doblaje y traducción al inglés. Finalmente, en 2019, se publicó *Pathologic 2*, un reboot y, a la vez, secuela del primer juego; y el DLC *The Marble Nest*.
 
 ¿Qué tienen todos estos juegos en común? Que ninguno fue traducido al castellano.
@@ -40,11 +43,11 @@ Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobreviv
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=Kft5qWAGJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  * <h3>The Marble Nest</h3>
+  * <h2>The Marble Nest</h2>
   * DLC para *Pathologic 2* que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.
 
   * El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
 
-  * <h4>Trailer</h4>
+  * <h3>Trailer</h3>
 
   * *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
