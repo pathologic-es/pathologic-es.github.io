@@ -44,12 +44,11 @@ Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobreviv
 <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=Kft5qWAGJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="marble_nest">
-  * <h2>The Marble Nest</h2>
-  * DLC para *Pathologic 2* que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.
-
-  * El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
-
-  * <h3>Trailer</h3>
-
-  * *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
+  <ul>
+    <li><h2>The Marble Nest</h2></li>
+    <li>DLC para *Pathologic 2* que ofrece una historia independiente. Juega un único día como el Licenciado Daniil Dankovsky, un científico de la Capital, que está tratando de salvar al pueblo junto al Arúspice. Descubre las piezas que faltan e intenta resolver el acertijo que te ofrece la propia Muerte.</li>
+    <li>El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?</li>
+    <li><h3>Trailer</h3></li>
+    <li><em>Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.</em></li>
+  </ul>
 </div>
