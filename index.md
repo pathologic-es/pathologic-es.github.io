@@ -45,4 +45,6 @@ Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobreviv
 
   * El Pueblo está condenado. Pero, ¿y si la Muerte llamara a tu puerta y te ofreciera la oportunidad de hacerlo todo una vez más? ¿Seguirías luchando, o aceptarías tu destino?
 
+  * ###Trailer
+
   * *Las siguientes imágenes no necesariamente reflejan el resultado final de la traducción.*
