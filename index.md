@@ -34,7 +34,7 @@ En el año 2005 la desarrolladora rusa **Ice-Pick Lodge** publicó *Pathologic*,
 Juega en el papel del Arúspice. Mientras obtienes respuestas, trata de sobrevivir durante una docena de días en un Pueblo que, aparte de hostil, está infectado por una misteriosa y mortal plaga. Como médico y cirujano que eres, debes intentar salvar al mayor número de personas, todo ello rodeado de un aura de misticismo, folklore y tradiciones orales rusas, que hacen que este viaje sea aún más confuso.
 
 * __Coordinación:__ [Álvaro Guerrero](https://twitter.com/DUBlajes)
-* __Traducción:__ [Jorge Álvarez](https://twitter.com/TarekJor), [Álvaro Guerrero](https://twitter.com/DUBlajes), [Karen Marlow](https://twitter.com/kmrlw), Ancalagon (Rafael), omewwwwes
+* __Traducción:__ [Jorge Álvarez](https://twitter.com/TarekJor), [Álvaro Guerrero](https://twitter.com/DUBlajes), [Karen Marlow](https://twitter.com/kmrlw), Ancalagon (Rafael), omewwwwes (Antonio)
 * __Corrección:__ [Raquel Rueda](https://twitter.com/RachelWheel93)
 
 <h3>Trailer</h3>
